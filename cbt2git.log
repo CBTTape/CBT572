@@ -1,0 +1,7 @@
+2023-08-06 05:17:51.675025 - Initialized conversion of CBT572
+2023-08-06 05:17:51.723324 - Received CBT.V505.FILE572.PDS from FILE572.XMI 
+2023-08-06 05:17:51.725750 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE572.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:17:51.726759 - Found @FILE572.txt (text/plain) in CBT.V505.FILE572.PDS, moved to PDS/@FILE572
+2023-08-06 05:17:51.727722 - Found ZIPJAVA.txt (text/plain) in CBT.V505.FILE572.PDS, moved to PDS/ZIPJAVA
+2023-08-06 05:17:51.728644 - Found ZIPP$DOC.txt (text/plain) in CBT.V505.FILE572.PDS, moved to PDS/ZIPP$DOC
+2023-08-06 05:17:51.729552 - Found ZIPPER.jcl (text/plain) in CBT.V505.FILE572.PDS, moved to PDS/ZIPPER
